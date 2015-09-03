@@ -1,6 +1,12 @@
 body {
   background-image: url("images/splash.jpg");
+  background-size: cover;
+  text-align: center;
 }
 h1{
-  font-size: 78px;
+  margin-top: 300px;
+  font-size: 65px;
+}
+p{
+  font-size: 30px;
 }
