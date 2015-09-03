@@ -1,6 +1,7 @@
 body {
-  background-image: url("images/splash.jpg");
+  background: url("sadeyun.jpg");
   background-size: cover;
+  background-color: #cccccc;
   text-align: center;
 }
 h1{
