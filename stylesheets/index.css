@@ -24,7 +24,10 @@ footer{
 }
 
 .parallax-container {
-      height: 900px;
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
     }
 
 .material-icons{
