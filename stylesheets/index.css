@@ -4,11 +4,11 @@ body {
   background-color: #cccccc;
   text-align: center;
 }
-h1{
+#name {
   margin-top: 300px;
   font-size: 65px;
 }
-p{
+#description {
   font-size: 30px;
 }
 
