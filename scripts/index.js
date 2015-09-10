@@ -14,4 +14,11 @@ $(document).ready(function(){
        {selector: '#image-test', offset: 500, callback: 'Materialize.fadeInImage("#image-test")' }
      ];
      Materialize.scrollFire(options);
-         
+
+$( document ).ready(function(){
+$('.fixed-action-btn').openFAB();
+});
+
+$( document ).ready(function(){
+  $('.fixed-action-btn').closeFAB();
+});
