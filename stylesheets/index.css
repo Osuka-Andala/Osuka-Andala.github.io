@@ -8,8 +8,8 @@ body {
   margin-top: 300px;
   font-size: 65px;
 }
-#description {
-  font-size: 30px;
+p{
+  font-size: 25px;
 }
 
 button{
