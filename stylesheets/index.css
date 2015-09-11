@@ -11,6 +11,10 @@ h1 {
   font-size: 85px;
   font-family: Tahoma;
   font-weight: bold;
+
+}
+h1 span {
+    border: 5px solid #000;
 }
 p {
   font-size: 25px;
