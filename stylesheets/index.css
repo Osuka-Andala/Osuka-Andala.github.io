@@ -31,7 +31,9 @@ nav{
 footer{
   background-color: #757575;
 }
-
+#links{
+  padding: 30px;
+}
 .parallax-container {
   height:
   width: 100%;
