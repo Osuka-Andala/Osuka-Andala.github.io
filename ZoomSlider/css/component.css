@@ -1,9 +1,9 @@
 /* Helper classes */
-/*html,*/
-/*body {
-	overflow: hidden;
+html,
+body {
+	/*overflow: hidden;*/
 	height: 100%;
-}*/
+}
 
 .container {
 	position: relative;

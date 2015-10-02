@@ -18,18 +18,17 @@
 	box-sizing: border-box;
 }
 
-/*html {
+html {
 	overflow-y: scroll;
-}*/
-
-/*body,
+}
+body,
 html {
 	font-size: 100%;
 	margin: 0;
 	padding: 0;
 	height: 100%;
 }
-*/
+
 /* Helper classes */
 .cf:before,
 .cf:after {
@@ -48,13 +47,13 @@ html {
 }
 
 /* Main styles */
-/*body {
+body {
 	font-family: "Avenir", 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
 	color: #CECECE;
 	background: #222125;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-}*/
+}
 
 a {
 	text-decoration: none;
