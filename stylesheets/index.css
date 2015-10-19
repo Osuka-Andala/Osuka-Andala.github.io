@@ -2,13 +2,14 @@ body {
   /*background: url("images/sadeyun.jpg");*/
   /*background-size: cover;*/
   background-color: #cccccc;
+  background-image: url(../images/wuc.jpg);
   text-align: center;
 }
 #name{
     margin-top: 200px;
 }
 h1 {
-  
+
   font-family: Tahoma;
   font-weight: bold;
 
