@@ -3,6 +3,7 @@ body {
   /*background-size: cover;*/
   background-color: #cccccc;
   background-image: url(../images/wuc.jpg);
+  height: 200px;
   text-align: center;
 }
 #name{
