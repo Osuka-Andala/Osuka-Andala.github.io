@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -15,7 +15,7 @@ body {
   font-size: 1.6rem;
   font-family: "Source Sans Pro", sans-serif;
   color: #0f1926;
-  background-color: #ebebeb;
+  background-color: #0f0f0f;
 }
 
 a {
@@ -27,7 +27,7 @@ img {
   max-width: 100%;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
 Patterns - reusable parts of our design
 
@@ -59,7 +59,7 @@ Patterns - reusable parts of our design
   white-space: nowrap;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
 Intro page
 
@@ -146,7 +146,7 @@ Intro page
   }
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
 Projects Slider
 
@@ -615,7 +615,7 @@ Projects Slider
     transform: translateY(-50%) translateX(-95%);
   }
 }
-/* -------------------------------- 
+/* --------------------------------
 
 Project slider navigation
 
@@ -664,9 +664,9 @@ Project slider navigation
   }
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Project content panel 
+Project content panel
 
 -------------------------------- */
 .cd-project-content {
@@ -769,7 +769,7 @@ Project content panel
   }
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
 Keyframes
 
