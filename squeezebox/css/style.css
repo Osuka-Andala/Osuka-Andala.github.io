@@ -36,7 +36,7 @@ Patterns - reusable parts of our design
   display: inline-block;
   padding: 1.4em 2em;
   border-radius: 50em;
-  background-color: #eebb00;
+  background-color: #009930;
   box-shadow: 0 1px 20px rgba(238, 187, 0, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.4);
   color: #ffffff;
   font-size: 1.3rem;
@@ -160,6 +160,7 @@ Projects Slider
   height: 100%;
   visibility: hidden;
   background-color: #0f1926;
+  background-image: url("../images/bridge.jpg");
   -webkit-transition: visibility 0s 0.5s;
   -moz-transition: visibility 0s 0.5s;
   transition: visibility 0s 0.5s;
