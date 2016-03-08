@@ -56,7 +56,7 @@ jQuery(document).ready(function($) {
 /* Backstretch Settings
 ------------------------------------------------------ */
 
-	$("#intro").backstretch("images/square.jpg");
+	$("#intro").backstretch("images/camera.jpg");
 
 
 /*----------------------------------------------------*/
@@ -224,7 +224,7 @@ jQuery(document).ready(function($) {
         $('#intro, #map').css({ 'height': $(window).height() });
         $('body').css({ 'width': $(window).width() })
 
-        $("#intro").backstretch("images/square.jpg");
+        $("#intro").backstretch("images/camera.jpg");
    });
 
 
